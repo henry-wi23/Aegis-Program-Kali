@@ -142,3 +142,7 @@ memory.txt
 
 # Keep any other generated, local, or sensitive files untracked
 .python-version
+
+progress.txt
+
+.vscode
